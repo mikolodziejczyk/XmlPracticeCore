@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections;
+using System.Linq;
+using System.Xml.Linq;
+using System.Xml.XPath;
 
 namespace XmlPracticeCore
 {
@@ -6,7 +10,7 @@ namespace XmlPracticeCore
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
