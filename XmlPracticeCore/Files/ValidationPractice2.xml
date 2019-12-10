@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<Order xmlns="file:\\C:\VisualStudio\Learn\General\XmlPractice\Files\PracticeSchema2.xsd">
+<Order xmlns="file:\\E:\VisualStudio\Learn\General\XmlPracticeCore\Files\PracticeSchema2.xsd">
   <Id>123545654356</Id>
   <DetailsUrl>http://abc.com/3test%20.aspx</DetailsUrl>
   <Recipient>

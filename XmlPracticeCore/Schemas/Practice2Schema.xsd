@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xs:schema id="Practice2Schema"
-    targetNamespace="file:\\C:\VisualStudio\Test\XmlReaderTest\Practice2Schema.xsd"
+    targetNamespace="file:\\E:\VisualStudio\Learn\General\XmlPracticeCore\Files\PracticeSchema2.xsd"
     elementFormDefault="qualified"
     attributeFormDefault="unqualified"
-    xmlns="C:\VisualStudio\Learn\General\XmlPractice\Schemas\Practice2Schema.xsd"
+    xmlns="file:\\E:\VisualStudio\Learn\General\XmlPracticeCore\Files\PracticeSchema2.xsd"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
 >
   <xs:complexType name="Identification">
